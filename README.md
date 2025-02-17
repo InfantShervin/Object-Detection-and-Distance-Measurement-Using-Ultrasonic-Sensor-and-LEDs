@@ -38,11 +38,6 @@ Breadboard  Standard size  1
 
 Jumper Wires  Male-to-male, Male-to-female 15-20 
 
-**Design and Circuit Diagram** 
-
-**Circuit Diagram** 
-
-![](Aspose.Words.454510ee-485b-48b7-aede-953e3ec8b60c.001.png)
 
 **Explanation of Circuit** 
 
