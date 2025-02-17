@@ -1,4 +1,5 @@
 **LED Distance Indicator using Raspberry Pi** 
+![Distance-Meter-Circuit-Diagram](https://github.com/user-attachments/assets/cd927f88-19a7-47d7-98e4-616a9604c2e0)
 
 **Introduction** 
 
