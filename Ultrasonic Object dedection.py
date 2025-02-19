@@ -2,6 +2,8 @@ import RPi.GPIO as GPIO
 import time
 
 # GPIO pin setup
+# gpio pin ste up as coded below 
+#follow step by step instruction 
 GPIO.setmode(GPIO.BCM)
 TRIG = 18    # Ultrasonic Trigger pin
 ECHO = 24    # Ultrasonic Echo pin
